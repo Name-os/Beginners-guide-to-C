@@ -1,0 +1,3 @@
+This is a beginners guide for C
+
+This tutorial is best if you already know a programming language such as python
