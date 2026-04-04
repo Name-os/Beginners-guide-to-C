@@ -1,6 +1,6 @@
 This is a beginners guide for C
 
-This tutorial is best if you already know a programming language such as python.
+This tutorial is best if you already know a programming language such as python however you can still use this without knowing other languages
 I created this tutorial while learning C so this will capture my struggles and pit falls.
 
 How to use this tutorial:

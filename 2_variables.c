@@ -1,6 +1,6 @@
-// Variables
+// 2, Variables
 
-// Variables are containers for other values like 1 or 2 or even Hello
+// Variables are containers for other values like 1 or 2 or even "Hello"
 // This allows us to hold a value for later or change a value
 
 // C wants us to specify what type of value we are holding before we even start the program so we have to tell it
@@ -22,7 +22,7 @@ int main() {
     // doubles are bigger floats and are 64 bit
     double longer_decimal = 10.11;
 
-    // chars, or character, hold one single character. Make sure to use single quotes or it will break 
+    // chars, or character, hold one single character. Make sure to use single quotes
     char character = 'a';
 
     return 0;
