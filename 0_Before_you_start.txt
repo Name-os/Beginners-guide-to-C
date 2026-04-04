@@ -1,3 +1,13 @@
 This is a beginners guide for C
 
-This tutorial is best if you already know a programming language such as python
+This tutorial is best if you already know a programming language such as python.
+I created this tutorial while learning C so this will capture my struggles and pit falls.
+
+How to use this tutorial:
+Use the numbers at the start of the file to guide to know which one to start with.
+Make sure to read the comments as they will teach you and explain bits of the code.
+
+Prerequisites:
+Install a C/C++ compiler
+Setup a IDE (VScode)
+Learn about the terminal
