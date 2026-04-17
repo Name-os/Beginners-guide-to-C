@@ -8,6 +8,7 @@
 
 // this is the standard library, this has tools to code in C
 // always add this to your program
+
 #include <stdio.h>
 
 // this is the main function which is run when the program is ran
